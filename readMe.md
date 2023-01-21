@@ -7,7 +7,7 @@ The code in the btc.js file uses the axios library to make a request to a site A
 
 ### Initialisation of project
 
-install dependecies
+who to install dependecies
 ```sh
 npm install
 ```
